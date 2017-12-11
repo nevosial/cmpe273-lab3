@@ -1,0 +1,98 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: black;
+}
+
+a {
+ # color: #00B7FF;
+}
+
+.border1{
+	border: solid;
+}
+#hdr{
+	border-bottom-color: black;
+ border-bottom-style: solid;
+ border-bottom-width: thin;
+}
+
+form{
+#	background: lightblue;
+}
+
+#loadresult{
+ #background: lightblue;
+  }
+  
+#left_header{
+	text-align:center;
+	margin:20px 20px 20px 70px;
+	border-color: #00B7FF;
+	color: #00B7FF;
+	background: white;
+	border-radius: 5px;
+}
+ 
+ img{
+ width:100%;
+ height:100%;
+ display: block;
+    margin: inherit;
+ }
+ 
+ .container{
+# background: khaki;
+ }
+ #logo{
+ margin-top: 30%;
+ margin-left:0%;
+ width:200%;
+ }
+ 
+ #row_1{
+ height:100%;
+ border-bottom-color: black;
+ border-bottom-style: solid; 
+  border-bottom-width: thin;
+ }
+ 
+ .center_elements{
+ text-align: center;
+ }
+ 
+ #uname,#pass{
+ border-radius:3px;
+ width:50%;
+ height:40px;
+ }
+ 
+ #h6_right{
+ margin-left:29%;
+ }	
+ 
+ #h5_right{
+ margin-left:30%;
+ }
+ #dropbox_img{
+ width:50%;
+ height:50%;
+ margin: auto;
+ }
+ 
+ #signin_btn,#signup_btn{
+ background: #4daae3;
+ color: white;
+ border-style:hidden;
+ padding:2% 2% 2% 2%;
+ border-radius: 5px;
+ }
+ 
+ #signin_btn{
+ margin-left:19%;
+ #margin-right:10%;
+ }
+ #signup_btn{
+ width:50%;
+ #margin-right:10%;
+ }
+ 
