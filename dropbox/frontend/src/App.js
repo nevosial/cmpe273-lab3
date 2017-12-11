@@ -5,9 +5,9 @@ import Login from './components/Login';
 import HomePage from './components/HomePage';
 import SignUp from './components/SignUp';
 import About from './components/About';
-import Files1 from './components/Filesload';
+import Filesload from './components/Filesload';
 import Groups from './components/Groups';
-import OwnShared from './components/Shared';
+import Shared from './components/Shared';
 
 
 
